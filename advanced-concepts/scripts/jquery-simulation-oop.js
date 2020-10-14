@@ -1,5 +1,5 @@
 // reproduces jQuery behavior in OOP style
-class Client {
+class MyDomObject {
     _ref; // propery
 
     constructor(elem) {
