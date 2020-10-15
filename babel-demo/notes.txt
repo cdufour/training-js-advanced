@@ -1,0 +1,5 @@
+# install
+npm i -D  @babel/core @babel/cli @babel/preset-env
+
+# transpile all files in the src folder to the lib directory
+./node_modules/.bin/babel src -d lib

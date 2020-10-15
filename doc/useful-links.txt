@@ -1,0 +1,4 @@
+** Useful Links **
+Design Patterns
+https://www.dofactory.com/javascript/design-patterns
+https://medium.com/better-programming/javascript-design-patterns-25f0faaaa15

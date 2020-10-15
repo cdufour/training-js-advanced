@@ -1,4 +1,4 @@
-# Outils
+# Tools
 nodejs > 10
 serve => npm install -g serve
 
